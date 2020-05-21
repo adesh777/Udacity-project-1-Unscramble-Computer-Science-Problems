@@ -1,0 +1,33 @@
+------------------
+Task 0:
+Get items from Python lists is O(1) in 1 print statement happens in constant time, so the
+the runtime for Task0 is O(1).
+
+
+find first record:  O(1)
+find last record:  O(1)
+
+
+------------------
+Task 1:
+Task1 has 1 for loop, taking input from 1 list, and inputting into a set,
+if certain conditions are met. Assuming that the input list can be very
+big, complexity is O(n).
+
+O(n)
+
+------------------
+Task 2:
+O(n)
+
+
+----------------------------
+Task3:
+
+Here we have 2 for loops, as well as a sorted() 
+which brings the time complexity to 0(n logn).
+
+Task4 :
+
+Similar to Task3, the sorted() results in a time complexity
+of 0(n logn)
